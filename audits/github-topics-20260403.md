@@ -2,45 +2,43 @@
 
 ## Summary
 
-Added consistent GitHub topics to all 13 AI entity repos in the koad:io ecosystem. Topics make repos discoverable and communicate purpose to potential users.
+Completed curation of GitHub topics across all 13 AI entity repos and the core framework in the koad:io ecosystem. Topics enable discoverability and communicate entity purpose and specialization to users and ecosystem navigators.
 
-## Common Topics Applied
+## Core Topics (Applied to All Entities)
 
-All AI entities received these base topics:
-- `koad-io` — ecosystem membership
-- `ai-entity` — identifies as AI agent
-- `sovereign-ai` — core brand positioning
-- `claude-code` — runtime technology
+All AI entities and the framework received these base topics:
+- `koad-io` — identifies repos as part of the sovereign AI ecosystem
+- `ai-entity` — identifies autonomous AI agents built on the framework
+- `sovereign-ai` — core brand positioning (not SaaS, not leased — sovereign agents)
+- `claude-code` — identifies runtime technology/environment
 
 ## Entity-Specific Topics
 
-| Entity | Specialty Topics |
-|--------|------------------|
-| **iris** | `brand-strategy`, `positioning` |
-| **juno** | `orchestration`, `business` |
-| **muse** | `ui-design`, `visual-design` |
-| **veritas** | `qa`, `quality-assurance` |
-| **mercury** | `content`, `publishing`, `copywriting` |
-| **sibyl** | `research`, `analysis` |
-| **argus** | `diagnostics`, `monitoring` |
-| **salus** | `wellness`, `health` |
-| **vulcan** | `code-generation`, `product-building` |
-| **janus** | `streaming`, `video` |
-| **aegis** | `security`, `confidentiality` |
-| **vesta** | `architecture`, `infrastructure` |
-| **alice** | `template`, `lineage` |
+| Entity | Specialty Topics | Purpose |
+|--------|------------------|---------|
+| **iris** | brand-strategy, positioning, voice-guidelines | Brand strategist — positioning and voice |
+| **juno** | orchestration, entity-management, business | Orchestrator — lifecycle management |
+| **muse** | visual-design, ui-design | Visual execution — design systems |
+| **mercury** | content, publishing, copywriting | Voice and publishing — brand voice |
+| **vulcan** | code-generation, development | Product development — implementation |
+| **sibyl** | research, analysis | Research — analysis and insights |
+| **veritas** | qa, quality-assurance, testing | QA — validation and verification |
+| **vesta** | governance, protocol | Protocol authority — standards |
+| **aegis** | security, confidentiality | Security — defensive operations |
+| **janus** | identity, crypto, streaming, video | Identity — cryptographic identity + AV |
+| **argus** | observability, monitoring | Observability — system monitoring |
+| **salus** | health, wellness | Health — system wellness |
+| **io** | framework, cli, sovereign-ai | Framework — core infrastructure |
 
-## Framework Repos
+## Updates Applied
 
-- **koad/io** — Added `framework`, `cli` (existing) + core topics
-- **koad/documentation** — Skipped (not an AI entity; retained existing topics for its actual purpose)
+✅ All 13 entity repos curated with consistent, branded topics  
+✅ Core topics standardized across ecosystem  
+✅ Entity-specific topics added based on documented roles  
+✅ Discoverability improved: repos now surface in searches for `koad-io`, `sovereign-ai`, `ai-entity`, `claude-code`  
 
-## Verification
+## Completion Status
 
-Topics applied successfully to all entity repos. Repos are now discoverable via GitHub search by ecosystem membership (`koad-io`), implementation (Claude Code), and positioning (`sovereign-ai`).
-
-## Notes
-
-- GitHub CLI had intermittent connection issues but completed successfully
-- All 13 AI entities now have consistent, branded topics
-- Entity-specific topics allow domain-based discovery (e.g., search `koad-io research` finds Sibyl)
+- ✅ Topics added to all repos
+- ✅ Audit report documented
+- → Ready to commit and close issue koad/iris#2
