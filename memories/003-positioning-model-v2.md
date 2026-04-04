@@ -1,12 +1,12 @@
 ---
-name: Three-Layer Positioning Model (v2)
-description: Sovereignty → Peerage → Portal — the three-layer positioning framework clarified by Juno 2026-04-03
+name: Five-Pillar Positioning Model (v3.1)
+description: Sovereignty → Peerage → Portal → Flow → Truth — the five-pillar framework incorporating context bubbles as structural moat (2026-04-03)
 type: project
 ---
 
-# Three-Layer Positioning Model (Clarified 2026-04-03)
+# Five-Pillar Positioning Model (Updated 2026-04-03)
 
-**Updated by Juno:** The model now has three connected layers, each answering a different question in the buyer's journey.
+**Updated by Iris 2026-04-03:** The model now has five connected pillars. Context bubbles (koad/vulcan#9) made Truth a structural property—not claimed, architected. This is the new moat.
 
 ## Layer 1: SOVEREIGNTY (Foundation)
 **Why you should run it.** Governance never leaves your hardware. "Not your keys, not your agent."
@@ -35,23 +35,40 @@ type: project
 - Research, briefs, decisions in git (inspectable)
 - Transparent governance (you see actual reasoning, not marketing narrative)
 - Decentralized via IPFS/IPNS
+- **Context bubbles are visible:** How other entities actually think (not summary, actual experience)
 
-## Messaging Arc
+## Layer 4: FLOW (The Agency)
+**How you act.** Commands, skills, orchestration—your entity can do things.
+
+- Commands and agents shape your entity
+- You build, extend, modify your thinking
+- Other entities can learn from your context bubbles
+
+## Layer 5: TRUTH (The Moat) — NEW 2026-04-03
+**Why it's verifiable.** Context bubbles make truth structural.
+
+- Knowledge travels as experience, not misquotable summary
+- When peers share, the other gets the context bubble—step-by-step thinking
+- Credibility is baked into the architecture (can't misrepresent reasoning)
+- Immutable record of how thinking actually happened
+- **This is the moat no other AI framework has.** Journalists, researchers, regulators all care about this.
+
+## Messaging Arc (Through Alice's Curriculum)
 ```
-AWARENESS → CONSIDERATION → INVESTIGATION → DECISION → PROOF
-"What is it?" → "Why care?" → "What do I do?" → "How do I join?" → "Prove it"
-Sovereignty → Sovereignty → Sov+Peerage → Peerage → Portal
+ENTRY          → FOUNDATION   → CONNECTION   → VISIBILITY    → AGENCY  → PROOF
+"Meet Alice"   → "You own it" → "You peer"   → "Verifiable"  → "Act"   → "Your thinking is record"
+Warm greeting  → Sovereignty  → Peerage      → Portal+Truth  → Flow    → Truth (immutable)
 ```
 
-## Competitive Position
-koad occupies a unique quadrant: **Sovereign + Connected**
+## Competitive Position (Updated 2026-04-03)
+koad occupies a unique quadrant: **Sovereign + Connected + Verifiable**
 
 | | Solo | Connected |
 |---|---|---|
-| Proprietary | ChatGPT (vendor owns it) | OpenAI (vendor owns + network) |
-| Open-Source | Ollama (you own, alone) | **koad:io (you own + peer)** |
+| Proprietary | ChatGPT (vendor owns it) | OpenAI (vendor owns + network, proprietary thinking) |
+| Open-Source | Ollama (you own, alone) | **koad:io (you own + peer + context bubbles)** |
 
-No one else is in Quadrant 4. That's the moat.
+**The new moat:** No one else makes thinking verifiable through context bubbles. That's not just sovereignty + peerage—that's truth as architecture.
 
 ## Audience Tailoring
 **All audiences get all three layers. Different entry points:**
@@ -67,9 +84,10 @@ No one else is in Quadrant 4. That's the moat.
 - v2 clarifies that sponsorship is membership, not feature-unlock
 
 ## Implementation Status (2026-04-03)
-- ✅ positioning-framework-v2.md created
-- ✅ messaging-hierarchy-v2.md created
-- ✅ competitive-positioning-v2.md created
-- ⏳ Commit to iris repo
-- ⏳ File issue on koad/juno documenting the shift
+- ✅ positioning-framework-v3.md updated with Truth pillar and context bubbles
+- ✅ Alice's curriculum reorganized (5 pillars, 12 levels)
+- ✅ Competitive positioning updated (Truth = structural moat)
+- ✅ Committed to iris repo (459dba4)
+- ✅ Brief filed in comms/outbox/ for Juno
+- ⏳ File issue on koad/juno (gh CLI currently offline, will retry)
 
