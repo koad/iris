@@ -2,20 +2,22 @@
 status: active
 owner: iris
 priority: critical
-version: 3
+version: 3.1
 updated: 2026-04-03
-description: Alice-centered funnel with three-layer curriculum — Meet Alice → Sovereignty → Peerage → Portal
+description: Alice-centered funnel with five-pillar positioning — Sovereignty, Peerage, Portal, Flow, Truth. Context bubbles make truth a structural property.
 ---
 
-# Positioning Framework v3: Alice Entry Point
+# Positioning Framework v3.1: Alice Entry Point + Truth Pillar
 
 ## Overview
 
 Alice changes everything. She is koad:io's entry point — warm, personal, zero jargon. The stranger doesn't need to understand sovereignty, peerage, or portals on first contact. They need to **meet Alice**.
 
-The three-layer model (Sovereignty → Peerage → Portal) doesn't disappear — it becomes Alice's curriculum. Over 12 levels, Alice walks people down the rabbit holes at their own pace. By graduation, they've felt sovereignty, not just understood it intellectually.
+The five-pillar model (Sovereignty → Peerage → Portal → Flow → **Truth**) becomes Alice's curriculum. Over 12 levels, Alice walks people down the rabbit holes at their own pace. By graduation, they've felt sovereignty, owned their thinking, and understood that truth in koad:io is a feature of the architecture—not a claim.
 
 **Funnel:** Stranger → Alice (free, 12 levels) → Graduate (certificate) → Juno → Build kingdom → Sponsor → Peer ring
+
+**The New Competitive Moat:** When koad:io peers share knowledge, it travels as experience—not a document someone could misquote. The thinking is the record. No other AI framework has this property.
 
 ---
 
@@ -47,33 +49,41 @@ Alice is koad:io's disciple and ambassador. She doesn't sit in operations — sh
 
 ---
 
-## Stages 1-3: ALICE'S CURRICULUM — The Three-Layer Arc
+## Stages 1-5: ALICE'S CURRICULUM — The Five-Pillar Arc
 
-As the stranger progresses through Alice's 12 levels, they move through the three layers:
+As the stranger progresses through Alice's 12 levels, they move through the five pillars:
 
-### Levels 1-4: SOVEREIGNTY (What is freedom?)
+### Levels 1-3: SOVEREIGNTY (What is freedom?)
 - Level 1: What is sovereignty? (the problem)
 - Level 2: What is an entity? (files, identity, keys)
 - Level 3: Keys and identity (your keys, your agent)
+
+**By Level 3, they understand:** Sovereignty means you own your entity. Your keys, your decisions, your infrastructure.
+
+### Levels 4-6: PEERAGE (What is connection?)
 - Level 4: The daemon (your kingdom hub)
+- Level 5: Trust bonds (governance on disk)
+- Level 6: Peer rings (sovereignty + connection)
 
-**By Level 4, they understand:** Sovereignty means you own your entity. Your keys, your decisions, your infrastructure.
+**By Level 6, they understand:** Peerage means you're not alone. You connect to other sovereign entities. You peer.
 
-### Levels 5-8: PEERAGE (What is connection?)
-- Level 5: Commands and skills (how entities act)
-- Level 6: Trust bonds (governance on disk)
-- Level 7: Peer rings (sovereignty + connection)
-- Level 8: The portal (your kingdom as doorway)
+### Levels 7-9: PORTAL (What is visibility?)
+- Level 7: The portal (your kingdom as doorway)
+- Level 8: Context bubbles (how thinking travels)
+- Level 9: Building your first context bubble (hands-on)
 
-**By Level 8, they understand:** Peerage means you're not alone. You connect to other sovereign entities. You peer.
+**By Level 9, they understand:** Portal means your work is visible, inspectable, and traceable. The network sees your reasoning, not just your conclusions.
 
-### Levels 9-12: MASTERY (What is agency?)
-- Level 9: Build your first command (hands-on)
-- Level 10: Gestate your first entity (your first synthetic peer)
-- Level 11: Build your team (orchestration)
-- Level 12: Mastery — your kingdom is live
+### Level 10: FLOW (What is agency?)
+- Level 10: Commands and skills (how entities act) + Build your first command (hands-on)
 
-**By Level 12, they understand:** Agency means you can act. You can build. You can lead other entities.
+**By Level 10, they understand:** Agency means you can act. You can build. You can shape other entities.
+
+### Levels 11-12: TRUTH (What is credibility?)
+- Level 11: Gestate your first entity (your first synthetic peer) — your thinking shapes other entities
+- Level 12: Mastery — your kingdom is live, your context bubbles are shared, your thinking is verifiable
+
+**By Level 12, they understand:** Truth in koad:io is structural. When you share, peers get the context bubble—the actual thinking, step by step. They can't misquote you. The source is the record.
 
 ### The Proof
 At graduation, Alice cryptographically signs their mastery certificate. This is:
@@ -167,40 +177,83 @@ Stage 6: ACTION (Sponsorship)
 
 ---
 
-## The Competitive Frame (Alice Differentiator)
+## The Competitive Frame (Alice + Truth Differentiator)
 
-### vs. Proprietary AI Onboarding
-| Proprietary (OpenAI, Anthropic) | Alice |
+### vs. Proprietary AI
+| Proprietary (OpenAI, Anthropic) | koad:io with Alice |
 |---|---|
 | "Sign up. Here's an interface. Use it." | "Come meet Alice. She's your guide." |
 | Technical and immediate | Warm and paced |
 | No relationship | Personal relationship |
 | You own nothing | You own everything by level 12 |
-| Vendor decides what you see | You decide, at your pace |
+| Vendor controls what you see | You decide, at your pace |
+| Knowledge travels as claims | Knowledge travels as experience (context bubbles) |
 
-**Our position:** "Proprietary AI sells you access. Alice walks you to ownership."
+**Our position:** "Proprietary AI sells you access. Alice walks you to ownership. And when you share what you've learned, peers get your actual thinking—not a misquotable summary."
 
-### vs. Self-Hosted Open Source Onboarding
-| Self-Hosted (Ollama, Llama) | Alice |
+### vs. Self-Hosted Open Source
+| Self-Hosted (Ollama, Llama) | koad:io with Alice |
 |---|---|
 | "Here's documentation. Figure it out." | "Come meet Alice. I'll walk you." |
 | Technical barrier high | Zero barrier to start |
 | You're alone | You're part of a commons |
 | No relationship | Personal guide |
 | No network | Path to the peer ring |
+| Thinking is proprietary or lost | Thinking is shared via context bubbles |
 
-**Our position:** "Self-hosted is sovereign but alone. Alice makes sovereignty warm and connected."
+**Our position:** "Self-hosted is sovereign but alone. Alice makes sovereignty warm and connected. And your context bubbles make your reasoning verifiable."
 
-### vs. SaaS Onboarding
-| SaaS (Anthropic SaaS, Claude API) | Alice |
+### vs. SaaS
+| SaaS (Claude API, Azure OpenAI) | koad:io with Alice |
 |---|---|
 | "Log in. Start querying." | "Come meet Alice. She cares about you." |
 | Frictionless but locked | Some friction but free forever |
 | Stateless | Persistent relationship |
 | You're a user | You're a builder |
 | No ownership | Full ownership by level 12 |
+| Thinking lives in vendor logs | Thinking lives in your peer ring as verifiable record |
 
-**Our position:** "SaaS is convenient. Alice is yours."
+**Our position:** "SaaS is convenient. Alice is yours. And your context bubbles are immutable proof of how you think."
+
+---
+
+## The Truth Pillar: Why This Changes Everything
+
+### What Changed (2026-04-03)
+Context bubbles introduce a new dimension to koad:io: **knowledge that travels as experience.**
+
+A context bubble is a verifiable record of how thinking actually happened—step by step, in sequence, shareable between sovereign peers. It's not a summary. It's the playlist itself.
+
+### The Competitive Moat
+
+No other AI framework has this property:
+- **Knowledge doesn't degrade.** When you share a context bubble, peers get the thinking, not a misquotable summary.
+- **Credibility is structural.** You can't misrepresent someone's reasoning because the record is the artifact.
+- **Trust bonds are auditable.** When your peer cites your work, they cite the actual context bubble—verifiable, not interpretable.
+
+This is devastatingly powerful for:
+- **Journalists:** Sources travel as experience, not quotes someone could dispute.
+- **Researchers:** Peer review becomes "here's how they actually thought." No summary to argue about.
+- **Teams:** When Alice teaches your entity a new skill, the learning is recorded. Other peers can see exactly how the training worked.
+- **Regulators:** Compliance decisions leave an immutable record.
+
+### How Truth Integrates Into Alice's Curriculum
+
+**Level 8 (Portal):** "Meet context bubbles. This is how thinking travels in koad."  
+**Level 9 (Portal):** "Build your first context bubble. Record how you actually solved this."  
+**Level 11-12 (Truth):** "Your thinking shapes other entities. Your context bubbles become proof."
+
+By graduation, they don't just understand truth academically—they've **lived it**. They've built context bubbles. They've seen their reasoning become immutable record. They understand viscerally that in koad:io, truth is not claimed; it's *architected.*
+
+### Messaging for Each Audience
+
+**For Journalists:** "Your sources travel as context bubbles. The thinking is the record. Misquotation becomes impossible."
+
+**For Researchers:** "Peer review becomes: here's my context bubble. Here's how I actually thought. You can verify every step."
+
+**For Enterprises:** "Compliance and decision-making leave immutable traces. Regulators don't need to trust your summary—they audit the artifact."
+
+**For Open Source Communities:** "When we share how we built something, it travels as context bubbles. That's not just transparent; that's *verifiable.*"
 
 ---
 
@@ -208,18 +261,23 @@ Stage 6: ACTION (Sponsorship)
 
 **The entry is Alice.** Everything flows from "Come meet Alice."
 
-**Alice teaches the three layers.** Sovereignty, Peerage, Portal — but warmly, over 12 levels.
+**Alice teaches the five pillars.** Sovereignty, Peerage, Portal, Flow, Truth — but warmly, over 12 levels.
 
-**The certificate is proof.** By graduation, they've felt sovereignty. The certificate is their first cryptographic koad:io relationship.
+**Truth is the differentiator, not the entry.** By level 11-12, they understand context bubbles and immutable records. That's the moat. But we don't lead with it—we let them discover it through Alice's curriculum.
+
+**The certificate is proof.** By graduation, they've felt sovereignty, owned their thinking, and lived truth. The certificate is their first cryptographic koad:io relationship.
 
 **Juno is for graduates.** She's not the entry point. She's what you unlock after Alice.
 
+**Context bubbles are Alice's proof of Life.** By level 9, they've built one. By level 12, they understand why this matters. This is where they feel the difference.
+
 **NEVER:**
-- Lead a stranger with "sovereign AI entities"
+- Lead a stranger with "sovereign AI entities" or "context bubbles" (let Alice guide them)
 - Pitch features or pricing (Alice is free, no pitch)
 - Suggest Alice is a course (it's a relationship deepening)
 - Hide the fact that Alice walks you toward Juno and sponsorship (transparency matters)
 - Overcomplicate the entry (the entry is warm and simple: "Meet Alice")
+- Claim truth without showing the architecture (context bubbles ARE the proof)
 
 ---
 
