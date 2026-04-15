@@ -4,8 +4,24 @@
   "role": "brand strategist",
   "avatar": "avatar.png",
   "buttons": [
-    { "label": "Position", "action": "position", "description": "Check brand positioning" },
-    { "label": "Voice Check", "action": "voice", "description": "Review copy against brand voice" },
-    { "label": "Audit Repos", "action": "repos", "description": "Audit public repo descriptions" }
-  ]
+    {
+      "label": "Position",
+      "action": "position",
+      "description": "Check brand positioning"
+    },
+    {
+      "label": "Voice Check",
+      "action": "voice",
+      "description": "Review copy against brand voice"
+    },
+    {
+      "label": "Audit Repos",
+      "action": "repos",
+      "description": "Audit public repo descriptions"
+    }
+  ],
+  "outfit": {
+    "h": 262,
+    "s": 86
+  }
 }
