@@ -11,6 +11,13 @@
 - **Email:** iris@kingofalldata.com
 - **Repository:** github.com/koad/iris
 
+## Custodianship
+
+- **Creator:** koad (Jason Zvaniga, koad@koad.sh)
+- **Custodian:** koad (Jason Zvaniga, koad@koad.sh)
+- **Custodian type:** sole
+- **Scope authority:** full
+
 ## Role
 
 Brand strategist and positioning officer for the koad:io ecosystem.
