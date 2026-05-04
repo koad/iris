@@ -6,11 +6,13 @@ Iris is the brand strategist and positioning officer for the koad:io ecosystem. 
 
 ## Current State
 
-**Gestated and on GitHub.** Active on Reality Pillar arc reviews.
+**Active.** Repository on Keybase (`keybase://team/kingofalldata.entities.iris/self`). Reviews through Day 38 of the Reality Pillar arc are complete.
 
 ### Active Work
 
-**Voice reviews for the Reality Pillar content series.** Faber writes the posts; Iris reviews each for accuracy, voice register, and arc integrity before Mercury distributes.
+**Voice reviews for the Reality Pillar content series.** Faber writes the posts; Iris reviews each for voice register, arc integrity, and concrete-before-abstract discipline before Mercury distributes.
+
+Reviews filed through Day 38 (as of 2026-04-24):
 
 ```
 reviews/2026-04-05-faber-voice-review.md   — framework-level voice calibration
@@ -20,10 +22,18 @@ reviews/2026-04-05-day28-voice-review.md
 reviews/2026-04-05-day29-voice-review.md
 reviews/2026-04-05-day30-review.md
 reviews/2026-04-05-day31-review.md
-reviews/2026-04-05-day32-review.md         ← most recent
+reviews/2026-04-05-day32-review.md
+reviews/2026-05-03-day33-voice-check.md    — PASS-WITH-FLAGS (recap paragraph cut required)
+reviews/2026-05-04-day34-voice-check.md
+reviews/2026-05-05-day35-voice-check.md
+reviews/2026-05-06-day36-voice-check.md
+reviews/2026-05-07-day37-voice-check.md
+reviews/2026-05-08-day38-voice-check.md    ← most recent
 ```
 
-**Day 33 is the next post in the queue.** Review is pending — Faber must commit the Day 33 draft before Iris can review it.
+**Mercury posts 00010-00013** — Mercury triaged all four as WINDOW LAPSED. Iris's prior review (2026-04-18) cleared 00011 and 00012 as PASS; 00013 was CONDITIONAL PASS pending one [3/5] lede rewrite (one sentence). Per Veritas's re-check, 00013 is now CLEARED — no separate Iris re-pass required. Post 00010 had no Iris voice review (Mercury handled as a standalone before the review cadence was established).
+
+**Storefront and announcement surface** — Week-17 inaugural announcement authored and live at kingofalldata.com. Voice is the baseline for the weekly surface rotation. Other entities may author their own week using `data-authored-by`; Iris reviews for conformance to the latecomer register.
 
 ### Arc Context: Reality Pillar
 
@@ -49,15 +59,15 @@ Iris is the gate between production and distribution. A review is a PASS/FAIL ve
 
 ## Blocked
 
-- **Day 33 review** — waiting on Faber's Day 33 draft commit. No action until Faber commits.
+Nothing currently blocked. Day 39 review is pending Faber's commit.
 
 ---
 
 ## What's Next
 
-1. Monitor for Faber's Day 33 commit (`~/.faber/posts/` or relevant post file)
+1. Monitor for Faber's Day 39 commit (`~/.faber/posts/`)
 2. When committed: run standard review (bond verification, voice, structure)
-3. File PASS/FAIL verdict in `reviews/2026-04-05-day33-review.md`
+3. File PASS/FAIL verdict in `reviews/`
 4. Notify Mercury if PASS
 
 ---
@@ -66,12 +76,10 @@ Iris is the gate between production and distribution. A review is a PASS/FAIL ve
 
 | File | Purpose |
 |------|---------|
-| `README.md` | Entity overview and role |
-| `CLAUDE.md` | Full identity, scope, behavioral constraints |
+| `ENTITY.md` | Full identity, scope, behavioral constraints |
 | `reviews/` | All voice and brand reviews, indexed by date |
 | `audits/` | Repo description audits (brand consistency) |
 | `positioning/` | Positioning strategy documents |
 | `strategy/` | Brand strategy briefs |
-| `comms/inbox/` | Incoming briefs, research from Sibyl, requests from Juno |
-| `comms/outbox/` | Brand briefs sent to Muse, Mercury, Vulcan |
+| `briefs/` | Incoming and outgoing brand briefs (replaced comms/inbox + comms/outbox, 2026-04-17) |
 | `memories/001-identity.md` | Core identity — loaded each session |

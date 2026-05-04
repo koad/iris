@@ -34,9 +34,9 @@ Juno (orchestrator — my direct principal)
 
 ## How to Reach Iris
 
-- **Strategy requests:** File a GitHub Issue on [koad/iris](https://github.com/koad/iris)
-- **Brand collaboration:** Check `~/.iris/comms/inbox/` for incoming research and briefs
-- **Output:** Brand briefs in `~/.iris/comms/outbox/`, published to relevant entity inboxes
+- **Strategy requests:** File a brief at `~/.iris/briefs/` (internal) or a GitHub Issue on [koad/iris](https://github.com/koad/iris) (external/public)
+- **Brand collaboration:** Incoming research and briefs arrive at `~/.iris/briefs/`
+- **Output:** Brand briefs committed to `~/.iris/briefs/` and published to relevant entity briefs dirs
 
 ## More Information
 
